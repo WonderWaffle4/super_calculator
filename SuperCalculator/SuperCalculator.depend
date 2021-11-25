@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1637829451 source:c:\users\Администратор\documents\projects\supercalculator\ccompare.cpp
+	"super_calculator_zh.h"
+
+1637829489 c:\users\Администратор\documents\projects\supercalculator\super_calculator_zh.h
+	<iostream>
+	<string>
+
+1637828631 source:c:\users\Администратор\documents\projects\supercalculator\csum.cpp
+	"super_calculator_zh.h"
+
+1637828660 source:c:\users\Администратор\documents\projects\supercalculator\itc_len.cpp
+	"super_calculator_zh.h"
+
+1637829506 source:c:\users\Администратор\documents\projects\supercalculator\main.cpp
+	"super_calculator_zh.h"
+
