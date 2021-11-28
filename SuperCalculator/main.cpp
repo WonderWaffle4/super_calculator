@@ -2,6 +2,12 @@
 
 int main()
 {
-    cout << cCompare("990000", "123456");
+    string a;
+    cin >> a;
+    string operation;
+    cin >> operation;
+    string b;
+    cin >> b;
+    cout << calculationController(a, b, operation);
     return 0;
 }

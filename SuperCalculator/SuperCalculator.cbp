@@ -33,9 +33,24 @@
 			<Add option="-fexceptions" />
 		</Compiler>
 		<Unit filename="cCompare.cpp" />
+		<Unit filename="calculationController.cpp" />
+		<Unit filename="calculation_operator_multiply.cpp" />
+		<Unit filename="calculation_operator_plus.cpp" />
+		<Unit filename="cmultiply.cpp" />
+		<Unit filename="countZeros.cpp" />
+		<Unit filename="csubstract.cpp" />
 		<Unit filename="csum.cpp" />
+		<Unit filename="isPositive.cpp" />
 		<Unit filename="itc_len.cpp" />
+		<Unit filename="itc_reverse_str.cpp" />
+		<Unit filename="itc_slice_str.cpp" />
+		<Unit filename="itc_toInt.cpp" />
+		<Unit filename="itc_toString.cpp" />
 		<Unit filename="main.cpp" />
+		<Unit filename="noMinus.cpp" />
+		<Unit filename="noZero.cpp" />
+		<Unit filename="sliceZeros.cpp" />
+		<Unit filename="substractCalculation.cpp" />
 		<Unit filename="super_calculator_zh.h" />
 		<Extensions>
 			<lib_finder disable_auto="1" />

@@ -15,3 +15,67 @@
 1637829506 source:c:\users\Администратор\documents\projects\supercalculator\main.cpp
 	"super_calculator_zh.h"
 
+1638095102 source:d:\project\supercalculator\ccompare.cpp
+	"super_calculator_zh.h"
+
+1638106232 d:\project\supercalculator\super_calculator_zh.h
+	<iostream>
+	<string>
+
+1638034468 source:d:\project\supercalculator\csum.cpp
+	"super_calculator_zh.h"
+
+1637833202 source:d:\project\supercalculator\itc_len.cpp
+	"super_calculator_zh.h"
+
+1638111417 source:d:\project\supercalculator\main.cpp
+	"super_calculator_zh.h"
+
+1638031285 source:d:\project\supercalculator\itc_tostring.cpp
+	"super_calculator_zh.h"
+
+1638032193 source:d:\project\supercalculator\itc_reverse_str.cpp
+	"super_calculator_zh.h"
+
+1638095109 source:d:\project\supercalculator\csubstract.cpp
+	"super_calculator_zh.h"
+
+1638042817 source:d:\project\supercalculator\itc_slice_str.cpp
+	"super_calculator_zh.h"
+
+1638044479 source:d:\project\supercalculator\nozero.cpp
+	"super_calculator_zh.h"
+
+1638045176 source:d:\project\supercalculator\substractcalculation.cpp
+	"super_calculator_zh.h"
+
+1638100618 source:d:\project\supercalculator\calculationcontroller.cpp
+	"super_calculator_zh.h"
+
+1638089587 source:d:\project\supercalculator\ispositive.cpp
+	"super_calculator_zh.h"
+
+1638091288 source:d:\project\supercalculator\nominus.cpp
+	"super_calculator_zh.h"
+
+1638097082 source:d:\project\supercalculator\calculation_operator_plus.cpp
+	"super_calculator_zh.h"
+
+1638093005 source:d:\project\supercalculator\calculation_operator_minus.cpp
+	"super_calculator_zh.h"
+
+1638111472 source:d:\project\supercalculator\calculation_operator_multiply.cpp
+	"super_calculator_zh.h"
+
+1638111440 source:d:\project\supercalculator\cmultiply.cpp
+	"super_calculator_zh.h"
+
+1638105264 source:d:\project\supercalculator\itc_toint.cpp
+	"super_calculator_zh.h"
+
+1638105831 source:d:\project\supercalculator\countzeros.cpp
+	"super_calculator_zh.h"
+
+1638111405 source:d:\project\supercalculator\slicezeros.cpp
+	"super_calculator_zh.h"
+
