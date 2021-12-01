@@ -3,13 +3,15 @@
 
 #include <iostream>
 #include <string>
+#include <conio.h>
+#include <windows.h>
+
 
 using namespace std;
 
 unsigned long long itc_toInt(string s);
 
 long long itc_len(string str);
-
 string sliceZeros(string num);
 string countZeros(string num1, string num2);
 string csum(string num1, string num2);
@@ -27,5 +29,9 @@ string calculation_operator_multiply(bool firstPositive, bool secondPositive, st
 string noMinus(string num);
 
 bool isPositive(string num);
+
+void gotoxy(int x, int y);
+void StartMenuColor(HANDLE hStdOut, int option);
+int StartMenuLogic(int option, int key);
 
 #endif // SUPER_CALCULATOR_ZH_H_INCLUDED

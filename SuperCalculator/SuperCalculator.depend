@@ -18,9 +18,11 @@
 1638095102 source:d:\project\supercalculator\ccompare.cpp
 	"super_calculator_zh.h"
 
-1638106232 d:\project\supercalculator\super_calculator_zh.h
+1638390900 d:\project\supercalculator\super_calculator_zh.h
 	<iostream>
 	<string>
+	<conio.h>
+	<windows.h>
 
 1638034468 source:d:\project\supercalculator\csum.cpp
 	"super_calculator_zh.h"
@@ -28,7 +30,7 @@
 1637833202 source:d:\project\supercalculator\itc_len.cpp
 	"super_calculator_zh.h"
 
-1638111417 source:d:\project\supercalculator\main.cpp
+1638391028 source:d:\project\supercalculator\main.cpp
 	"super_calculator_zh.h"
 
 1638031285 source:d:\project\supercalculator\itc_tostring.cpp
@@ -49,7 +51,7 @@
 1638045176 source:d:\project\supercalculator\substractcalculation.cpp
 	"super_calculator_zh.h"
 
-1638100618 source:d:\project\supercalculator\calculationcontroller.cpp
+1638386861 source:d:\project\supercalculator\calculationcontroller.cpp
 	"super_calculator_zh.h"
 
 1638089587 source:d:\project\supercalculator\ispositive.cpp
@@ -64,7 +66,7 @@
 1638093005 source:d:\project\supercalculator\calculation_operator_minus.cpp
 	"super_calculator_zh.h"
 
-1638111472 source:d:\project\supercalculator\calculation_operator_multiply.cpp
+1638386739 source:d:\project\supercalculator\calculation_operator_multiply.cpp
 	"super_calculator_zh.h"
 
 1638111440 source:d:\project\supercalculator\cmultiply.cpp
@@ -77,5 +79,14 @@
 	"super_calculator_zh.h"
 
 1638111405 source:d:\project\supercalculator\slicezeros.cpp
+	"super_calculator_zh.h"
+
+1638390117 source:d:\project\supercalculator\gotoxy.cpp
+	"super_calculator_zh.h"
+
+1638390167 source:d:\project\supercalculator\starmenucolor.cpp
+	"super_calculator_zh.h"
+
+1638391040 source:d:\project\supercalculator\startmenulogic.cpp
 	"super_calculator_zh.h"
 

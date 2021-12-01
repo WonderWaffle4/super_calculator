@@ -32,6 +32,8 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="StarMenuColor.cpp" />
+		<Unit filename="StartMenuLogic.cpp" />
 		<Unit filename="cCompare.cpp" />
 		<Unit filename="calculationController.cpp" />
 		<Unit filename="calculation_operator_multiply.cpp" />
@@ -40,6 +42,7 @@
 		<Unit filename="countZeros.cpp" />
 		<Unit filename="csubstract.cpp" />
 		<Unit filename="csum.cpp" />
+		<Unit filename="gotoxy.cpp" />
 		<Unit filename="isPositive.cpp" />
 		<Unit filename="itc_len.cpp" />
 		<Unit filename="itc_reverse_str.cpp" />
